@@ -1,4 +1,4 @@
-Last Updated: July 7, 2017
+Last Updated: Sept 10, 2017
 
 # LoyaltyManagement.git
 
