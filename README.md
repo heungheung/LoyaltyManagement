@@ -2,7 +2,7 @@ Last Updated: Sept 10, 2017
 
 # LoyaltyManagement.git
 
-This is **a fort** of the Git Repository for APAC Cloud Test Drive - **Java Apps Lab** - Loyalty Rule Management for Offers
+This is **a fork** of the Git Repository for APAC Cloud Test Drive - **Java Apps Lab** - Loyalty Rule Management for Offers
 
 *Please do NOT use / clone / fork this repo - refer to*
   https://github.com/APACTestDrive/CloudNative_Mobile/
